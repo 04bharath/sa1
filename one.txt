@@ -1,0 +1,7 @@
+class one
+{
+    public ststic void main(String[] args)
+    {
+      system.out.println("hello");
+      }
+ }
