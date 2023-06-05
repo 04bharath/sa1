@@ -2,6 +2,6 @@ class one
 {
     public ststic void main(String[] args)
     {
-      system.out.println("hello Welcome to spt");
+      system.out.println("hello Welcome to spt in tumkur");
       }
  }
